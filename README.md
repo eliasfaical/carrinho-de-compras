@@ -2,6 +2,6 @@
 
 ### Rocketseat
 
-- Reacjs
+- Reactjs
   - Context
   - Hooks
